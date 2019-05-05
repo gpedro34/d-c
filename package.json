@@ -1,6 +1,6 @@
 {
-  "name": "d-c",
-  "version": "1.0.0",
+  "name": "@munity/d-c",
+  "version": "1.0.1",
   "description": "Simple shell scripts for docker-compose development",
   "main": "index.js",
   "scripts": {
