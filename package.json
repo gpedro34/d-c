@@ -1,11 +1,11 @@
 {
   "name": "@munity/d-c",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple shell scripts for docker-compose development",
   "main": "index.js",
   "scripts": {
     "test": "echo \"All good: No tests specified\""
   },
-  "author": "gpedro34",
+  "author": "gpedro34 <gpedro34@gmail.com>",
   "license": "GPL-3.0-or-later"
 }
